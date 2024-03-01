@@ -1,0 +1,2 @@
+# mine
+how to mine
